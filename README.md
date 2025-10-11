@@ -57,20 +57,6 @@ cd penguin-fashion-with-tailwind
 
 2. Preview by opening `index.html` in your browser, or run a simple static server for nicer local dev HTTP handling.
 
-Using Node.js http-server (optional):
-
-```powershell
-npx http-server -c-1 -p 8080
-# then open http://localhost:8080
-```
-
-Using Python 3 (optional):
-
-```powershell
-python -m http.server 8080
-# then open http://localhost:8080
-```
-
 ### Development notes
 
 - Tailwind is configured via `tailwind.config.js`. If you want to extend the design system, add custom colors, fonts, or plugins there.
