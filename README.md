@@ -96,7 +96,7 @@ Contributions are welcome. If you'd like to submit a fix or improvement:
 
 Please keep changes small and focused. For design changes, include screenshots or a live demo link.
 
-### License & credits
+#### License & credits
 
 This project is provided under the MIT License see the `LICENSE` file for details. Replace or add license details as necessary for your use case.
 
