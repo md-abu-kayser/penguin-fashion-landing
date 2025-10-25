@@ -1,10 +1,10 @@
-# Penguin Fashion Tailwind CSS Demo
+# Penguin Fashion Responsive Landing Page with Tailwind CSS Demo
 
 Professional, responsive marketing landing for a fictional fashion brand featuring penguin-themed apparel. Built as a lightweight static site using Tailwind CSS and designed for clarity, accessibility, and fast performance.
 
 ---
 
-Table of contents
+**Table of contents:**
 
 - What this project is
 - Live demo / Preview
@@ -51,8 +51,9 @@ These instructions assume you have Git and Node.js installed if you want to run 
 1. Clone the repository
 
 ```powershell
-git clone https://github.com/Kawser420/penguin-fashion-with-tailwind.git
-cd penguin-fashion-with-tailwind
+git clone https://github.com/go-kawser/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS.git
+git live link: https://go-kawser.github.io/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS/
+cd Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS
 ```
 
 2. Preview by opening `index.html` in your browser, or run a simple static server for nicer local dev HTTP handling.
@@ -69,7 +70,7 @@ cd penguin-fashion-with-tailwind
 - Colors & typography: update `tailwind.config.js` to add brand colors and fonts. Rebuild CSS if using a build pipeline.
 - Adding pages: copy `index.html` to a new file and update navigation links. Keep reusable components consistent for maintainability.
 
-### Accessibility & performance
+### Accessibility and performance
 
 - Semantic HTML elements are used for screen readers and keyboard navigation.
 - Images include `alt` attributes; replace them with descriptive content for production.
@@ -96,12 +97,8 @@ Contributions are welcome. If you'd like to submit a fix or improvement:
 
 Please keep changes small and focused. For design changes, include screenshots or a live demo link.
 
-#### License and credits
+#### **Credits:**
 
-This project is provided under the MIT License see the `LICENSE` file for details. Replace or add license details as necessary for your use case.
-
-Credits:
-
-- Example brand and artwork are fictional and used for demo purposes only.
+- **Example brand and artwork are fictional and used for demo purposes only.**
 
 ---
