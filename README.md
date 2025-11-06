@@ -10,13 +10,13 @@ Professional, responsive marketing landing for a fictional fashion brand featuri
 - Live demo / Preview
 - Built with
 - Features
-- Installation & local preview
+- Installation and local preview
 - Development notes
 - Customization guide
-- Accessibility & performance
+- Accessibility and performance
 - File structure
 - Contributing
-- License & credits
+- License and credits
 
 ## What this project is:
 
@@ -44,15 +44,27 @@ Open `index.html` in a browser to preview the page locally. For a fast local dev
 - Accessible semantic HTML (landmarks, descriptive alt text)
 - Easy-to-read structure for rapid customization
 
-## Installation & local preview
+## Installation and local preview
 
 These instructions assume you have Git and Node.js installed if you want to run npm-based tooling. No build step is required to view the siteit's plain static HTML/CSS.
 
-1. Clone the repository
+1. **Clone the repository:**
 
 ```powershell
-git clone https://github.com/go-kawser/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS.git
-git live link: https://go-kawser.github.io/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS/
+git clone https://github.com/md-abu-kayser/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS.git
+
+```
+
+2. git live link:\*\*
+
+```powershell
+https://md-abu-kayser.github.io/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS/
+
+```
+
+3. **cd**
+
+```
 cd Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS
 ```
 
@@ -67,7 +79,7 @@ cd Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS
 ### Customization guide
 
 - Changing branding: swap the logo and update text in `index.html`.
-- Colors & typography: update `tailwind.config.js` to add brand colors and fonts. Rebuild CSS if using a build pipeline.
+- Colors and typography: update `tailwind.config.js` to add brand colors and fonts. Rebuild CSS if using a build pipeline.
 - Adding pages: copy `index.html` to a new file and update navigation links. Keep reusable components consistent for maintainability.
 
 ### Accessibility and performance
@@ -97,8 +109,28 @@ Contributions are welcome. If you'd like to submit a fix or improvement:
 
 Please keep changes small and focused. For design changes, include screenshots or a live demo link.
 
-#### **Credits:**
+### License
 
-- **Example brand and artwork are fictional and used for demo purposes only.**
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**
+
+- **Note:** Example brand and artwork are fictional and used for demo purposes only.
 
 ---
