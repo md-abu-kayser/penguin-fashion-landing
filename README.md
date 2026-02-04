@@ -118,9 +118,8 @@ Please keep changes small and focused. For design changes, include screenshots o
 
 ### Contact and Maintainer
 
-**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
-**Name:** Md Abu Kayser - Full-Stack Engineer
-
+- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+- **Name:** Md Abu Kayser - Full-Stack Engineer
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 - **Project:** _Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS_
