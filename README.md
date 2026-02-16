@@ -51,21 +51,21 @@ These instructions assume you have Git and Node.js installed if you want to run 
 1. **Clone the repository:**
 
 ```powershell
-git clone https://github.com/md-abu-kayser/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS.git
+git clone https://github.com/md-abu-kayser/penguin-fashion-landing.git
 
 ```
 
 2. git live link:\*\*
 
 ```powershell
-https://md-abu-kayser.github.io/Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS/
+https://md-abu-kayser.github.io/penguin-fashion-landing/
 
 ```
 
 3. **cd**
 
 ```
-cd Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS
+cd penguin-fashion-landing
 ```
 
 2. Preview by opening `index.html` in your browser, or run a simple static server for nicer local dev HTTP handling.
@@ -116,13 +116,13 @@ Please keep changes small and focused. For design changes, include screenshots o
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
+- **Project:** _penguin-fashion-landing_
 - **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _Penguin-Fashion-Responsive-Landing-Page-with-Tailwind-CSS_
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
