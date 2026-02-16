@@ -1,4 +1,4 @@
-# Penguin Fashion Responsive Landing Page with Tailwind CSS Demo
+# Penguin Fashion - Responsive Tailwind Landing Page
 
 Professional, responsive marketing landing for a fictional fashion brand featuring penguin-themed apparel. Built as a lightweight static site using Tailwind CSS and designed for clarity, accessibility, and fast performance.
 
