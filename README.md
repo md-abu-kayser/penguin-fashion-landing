@@ -28,9 +28,22 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript\&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-Professional, responsive marketing landing for a fictional fashion brand featuring penguin-themed apparel. Built as a lightweight static site using Tailwind CSS and designed for clarity, accessibility, and fast performance.
+## Plain docs links
+
+- HTML (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Tailwind CSS docs: [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+- PostCSS docs / postcss.config: [https://postcss.org/](https://postcss.org/)
+- daisyUI docs: [https://daisyui.com/](https://daisyui.com/)
+- Bootstrap docs: [https://getbootstrap.com/](https://getbootstrap.com/)
+- Google Fonts docs: [https://fonts.google.com/](https://fonts.google.com/)
+- Font Awesome docs: [https://fontawesome.com/](https://fontawesome.com/)
+- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 ---
+
+Professional, responsive marketing landing for a fictional fashion brand featuring penguin-themed apparel. Built as a lightweight static site using Tailwind CSS and designed for clarity, accessibility, and fast performance.
 
 **Table of contents:**
 
@@ -149,8 +162,8 @@ Please keep changes small and focused. For design changes, include screenshots o
 - **Project:** _penguin-fashion-landing_
 - **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
